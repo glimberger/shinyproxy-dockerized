@@ -1,0 +1,5 @@
+.idea
+/apps/
+/application.yml
+/shinyproxy.log
+/logo.*
